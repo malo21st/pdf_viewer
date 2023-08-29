@@ -8,3 +8,4 @@ st.markdown(
     '<img src="./app/static/tenjikai.png" height="333" style="border: 5px solid orange">',
     unsafe_allow_html=True,
 )
+st.markdown('<a href="./app/static/tenjikai.png" target="_blank">PDFを表示</a>', unsafe_allow_html=True)
